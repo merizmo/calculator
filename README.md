@@ -1,2 +1,6 @@
 # calculator
-calc
+This is a simple calculator.
+
+## Kafu
+
+### Mera
